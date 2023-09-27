@@ -59,7 +59,7 @@ p {
 }
 
 /* Class Selectors */
-.hero { /* Class for cover photo */
+.hero { /* Class for cover photo. */
     height: 800px;
     width: 100%;
     margin-bottom: 21px;
@@ -71,12 +71,12 @@ p {
     color: #d9dcd6;
 }
 
-.float-left {
+.float-left { /* Places element to left of container */
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.float-right { /* Places element to right of container */
     float: right;
     margin-left: 25px;
 }
@@ -84,7 +84,7 @@ p {
 /* Class for Search Engine Optimization, Online Reputation Management, 
     and Social Media Marketing sections 
     Also known as the Content section */
-.content { 
+.content {  /* Changes size and places image nicely on webpage */
     width: 75%;
     display: inline-block;
     margin-left: 20px;
